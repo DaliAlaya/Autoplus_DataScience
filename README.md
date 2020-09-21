@@ -1,2 +1,2 @@
 # Autoplus_DataScience
-Cars PrIce prediction
+Cars Price prediction
